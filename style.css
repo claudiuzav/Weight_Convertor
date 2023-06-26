@@ -9,6 +9,7 @@
 body {
   background-color: #212121;
   color: white;
+  height: 100vh;
 }
 .container-h1 {
   display: flex;
